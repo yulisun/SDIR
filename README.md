@@ -5,7 +5,7 @@ MATLAB Code for SDIR. It will be released after the paper is accepted.
 
 The graphCut algorithm is download from Professor Anton Osokin's webpage at https://github.com/aosokin/graphCutMex_BoykovKolmogorov.
 
-The Gaussian Mixture Model based superpixel segmentation is downloda from Dr. Ban Zhihua's webpage at https://github.com/ahban/GMMSP-superpixel.
+The Gaussian Mixture Model based superpixel segmentation is download from Dr. Ban Zhihua's webpage at https://github.com/ahban/GMMSP-superpixel.
 
 If you use these resources, please cite their relevant papers.
 
