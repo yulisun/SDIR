@@ -70,8 +70,8 @@ result = 'SDIR: Forward AUP is %4.3f; Backward AUP is %4.3f \n';
 fprintf(result,AUP_forward,AUP_backward)
 %%
 if AUP_forward < 0.3
-    fprintf('\n');disp('Please select the appropriate beta_t1 for SDIR!')
+    fprintf('\n'); disp('Please select the appropriate beta_t1 for SDIR!')
 end
 if AUP_backward < 0.3
-    fprintf('\n');disp('Please select the appropriate beta_t2 for SDIR!')
+    fprintf('\n'); disp('Please select the appropriate beta_t2 for SDIR!')
 end
