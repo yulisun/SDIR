@@ -14,14 +14,14 @@ If you use these resources, please cite their relevant papers.
 If you use this code for your research, please cite our paper. Thank you!
 
 @article{SUN202470,
-title = {Similarity and dissimilarity relationships based graphs for multimodal change detection}, 
-journal = {ISPRS Journal of Photogrammetry and Remote Sensing}, 
-volume = {208}, 
-pages = {70-88}, 
-year = {2024}, 
-issn = {0924-2716}, 
-doi = {https://doi.org/10.1016/j.isprsjprs.2024.01.002}, 
-author = {Yuli Sun and Lin Lei and Zhang Li and Gangyao Kuang} 
+title = {Similarity and dissimilarity relationships based graphs for multimodal change detection},  
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},  
+volume = {208},  
+pages = {70-88},  
+year = {2024},  
+issn = {0924-2716},  
+doi = {https://doi.org/10.1016/j.isprsjprs.2024.01.002},  
+author = {Yuli Sun and Lin Lei and Zhang Li and Gangyao Kuang}  
 }
 
 ## Running
